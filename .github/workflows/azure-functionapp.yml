@@ -5,7 +5,7 @@ on:
       - master
 
 env:
-  ResourceGroup: letsencrypt-func
+  ResourceGroup: tiitus-letsencrypt-func
 jobs:
   build:
     runs-on: ubuntu-latest
